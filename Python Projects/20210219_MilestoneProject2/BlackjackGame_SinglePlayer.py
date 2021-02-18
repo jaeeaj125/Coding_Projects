@@ -178,7 +178,7 @@ while True:
 
     # Print an opening statement
     if play_round == 1:
-        print('Welcome to the BLACK JACK GAME!\n')
+        print('Welcome to the BLACKJACK GAME!\n')
 
     # Create & shuffle the deck, deal two cards to each player
     dealer = Hand()
