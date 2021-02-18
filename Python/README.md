@@ -10,3 +10,4 @@ Topic from *Complete Python 3 Bootcamp master*. The two files cover both the sin
 * `try`, `except`, `finally`  
 
 **note: the ammount of deck and when to use new deck can be updated in the future**
+***
