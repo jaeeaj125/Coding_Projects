@@ -210,7 +210,7 @@ while True:
     # Set up deck, players and dealer
     # Fisrt round and other round should be set up seperately
     if play_round == 1:
-        print('Welcome to the BLACK JACK GAME!\n')
+        print('Welcome to the BLACKJACK GAME!\n')
         while True:
             try:
                 player_num = int(
